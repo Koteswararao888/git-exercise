@@ -1,1 +1,1 @@
-console.log("welcome to git tutorial")
+console.log("welcome to git")
